@@ -14,9 +14,11 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+    "pino-pretty": "^9.2.0"
   },
   "devDependencies": {
     "eslint": "8.56.0",
     "eslint-config-next": "14.2.3"
+    "@types/react": "^18.2.15"
   }
 }
