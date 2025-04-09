@@ -1,1 +1,3 @@
-// Utility functions for price & phase
+export function formatDate(date: Date): string {
+  return date.toISOString().split('T')[0]
+}
