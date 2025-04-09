@@ -1,1 +1,0 @@
-// Thirdweb SDK setup
